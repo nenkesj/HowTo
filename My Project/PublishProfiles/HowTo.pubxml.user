@@ -1,0 +1,1724 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>C:\Users\Stephen\Documents\My Web Apps\HowTo</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Backup.aspx">
+      <publishTime>01/28/2019 20:11:30</publishTime>
+    </File>
+    <File Include="bin/BaseSubsystem.dll">
+      <publishTime>07/20/2018 19:01:45</publishTime>
+    </File>
+    <File Include="bin/DBAccess.dll">
+      <publishTime>07/20/2018 19:01:45</publishTime>
+    </File>
+    <File Include="bin/HowTo.dll">
+      <publishTime>02/06/2019 21:26:27</publishTime>
+    </File>
+    <File Include="bin/HowTo.xml">
+      <publishTime>02/06/2019 21:26:27</publishTime>
+    </File>
+    <File Include="CSS/bg_checkered.gif">
+      <publishTime>07/20/2018 15:58:10</publishTime>
+    </File>
+    <File Include="CSS/bg_checkered_dark.gif">
+      <publishTime>07/20/2018 15:58:10</publishTime>
+    </File>
+    <File Include="CSS/bg_gradient.gif">
+      <publishTime>07/20/2018 15:58:10</publishTime>
+    </File>
+    <File Include="CSS/bg_gradient.png">
+      <publishTime>07/20/2018 15:58:10</publishTime>
+    </File>
+    <File Include="CSS/default.css">
+      <publishTime>08/11/2018 22:35:13</publishTime>
+    </File>
+    <File Include="CSS/default1.css">
+      <publishTime>01/28/2019 10:00:29</publishTime>
+    </File>
+    <File Include="CSS/default2.css">
+      <publishTime>12/06/2018 12:08:56</publishTime>
+    </File>
+    <File Include="CSS/notes.gif">
+      <publishTime>07/20/2018 15:58:10</publishTime>
+    </File>
+    <File Include="CSS/tree.gif">
+      <publishTime>07/20/2018 15:58:10</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>02/06/2019 21:24:44</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>07/20/2018 18:07:46</publishTime>
+    </File>
+    <File Include="images/ADO NET 4 Step by Step/Chapter 1/Fig 1.gif">
+      <publishTime>07/20/2018 17:00:44</publishTime>
+    </File>
+    <File Include="images/ADO NET 4 Step by Step/Chapter 1/Fig 2.gif">
+      <publishTime>07/20/2018 17:00:44</publishTime>
+    </File>
+    <File Include="images/ADO NET 4 Step by Step/Chapter 1/Fig 3.gif">
+      <publishTime>07/20/2018 17:00:44</publishTime>
+    </File>
+    <File Include="images/ADO NET 4 Step by Step/Chapter 1/Fig 4.gif">
+      <publishTime>07/20/2018 17:00:44</publishTime>
+    </File>
+    <File Include="images/ADO NET 4 Step by Step/Chapter 1/Fig 5.gif">
+      <publishTime>07/20/2018 17:00:44</publishTime>
+    </File>
+    <File Include="images/ADO NET 4 Step by Step/Chapter 1/Fig 6.gif">
+      <publishTime>07/20/2018 17:00:44</publishTime>
+    </File>
+    <File Include="images/ADO NET 4 Step by Step/Chapter 1/Fig 7.gif">
+      <publishTime>07/20/2018 17:00:44</publishTime>
+    </File>
+    <File Include="images/ADO NET 4 Step by Step/Chapter 1/Fig 8.gif">
+      <publishTime>07/20/2018 17:00:44</publishTime>
+    </File>
+    <File Include="images/ADO NET 4 Step by Step/Chapter 11/Fig 1.gif">
+      <publishTime>07/20/2018 17:01:15</publishTime>
+    </File>
+    <File Include="images/ADO NET 4 Step by Step/Chapter 2/Fig 1.gif">
+      <publishTime>07/20/2018 17:01:33</publishTime>
+    </File>
+    <File Include="images/ADO NET 4 Step by Step/Chapter 2/Fig 2.gif">
+      <publishTime>07/20/2018 17:01:33</publishTime>
+    </File>
+    <File Include="images/ADO NET 4 Step by Step/Chapter 2/Fig 3.gif">
+      <publishTime>07/20/2018 17:01:33</publishTime>
+    </File>
+    <File Include="images/ADO NET 4 Step by Step/Chapter 5/Fig 1.gif">
+      <publishTime>07/20/2018 17:01:51</publishTime>
+    </File>
+    <File Include="images/ADO NET 4 Step by Step/Chapter 5/Fig 2.gif">
+      <publishTime>07/20/2018 17:01:51</publishTime>
+    </File>
+    <File Include="images/ADO NET 4 Step by Step/Chapter 5/Fig 3.gif">
+      <publishTime>07/20/2018 17:01:51</publishTime>
+    </File>
+    <File Include="images/ADO NET 4 Step by Step/Chapter 5/Fig 4.gif">
+      <publishTime>07/20/2018 17:01:51</publishTime>
+    </File>
+    <File Include="images/ADO NET 4 Step by Step/Chapter 6/Fig 1.gif">
+      <publishTime>07/20/2018 17:02:09</publishTime>
+    </File>
+    <File Include="images/ADO NET 4 Step by Step/Chapter 8/Fig 1.png">
+      <publishTime>07/20/2018 17:02:27</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 1/Fig 1.gif">
+      <publishTime>07/20/2018 17:06:21</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 1/Fig 10.gif">
+      <publishTime>07/20/2018 17:06:21</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 1/Fig 11.gif">
+      <publishTime>07/20/2018 17:06:21</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 1/Fig 12.gif">
+      <publishTime>07/20/2018 17:06:21</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 1/Fig 13.gif">
+      <publishTime>07/20/2018 17:06:21</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 1/Fig 14.gif">
+      <publishTime>07/20/2018 17:06:21</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 1/Fig 15.gif">
+      <publishTime>07/20/2018 17:06:21</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 1/Fig 16.gif">
+      <publishTime>07/20/2018 17:06:21</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 1/Fig 17.gif">
+      <publishTime>07/20/2018 17:06:21</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 1/Fig 18.gif">
+      <publishTime>07/20/2018 17:06:21</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 1/Fig 2.gif">
+      <publishTime>07/20/2018 17:06:21</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 1/Fig 3.gif">
+      <publishTime>07/20/2018 17:06:21</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 1/Fig 4.gif">
+      <publishTime>07/20/2018 17:06:21</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 1/Fig 5.gif">
+      <publishTime>07/20/2018 17:06:21</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 1/Fig 6.gif">
+      <publishTime>07/20/2018 17:06:21</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 1/Fig 7.gif">
+      <publishTime>07/20/2018 17:06:21</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 1/Fig 8.gif">
+      <publishTime>07/20/2018 17:06:21</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 1/Fig 9.gif">
+      <publishTime>07/20/2018 17:06:21</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 10/Fig 1.gif">
+      <publishTime>07/20/2018 17:09:22</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 10/Fig 10.gif">
+      <publishTime>07/20/2018 17:09:22</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 10/Fig 11.gif">
+      <publishTime>07/20/2018 17:09:22</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 10/Fig 2.gif">
+      <publishTime>07/20/2018 17:09:22</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 10/Fig 3.gif">
+      <publishTime>07/20/2018 17:09:22</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 10/Fig 4.gif">
+      <publishTime>07/20/2018 17:09:22</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 10/Fig 5.gif">
+      <publishTime>07/20/2018 17:09:22</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 10/Fig 6.gif">
+      <publishTime>07/20/2018 17:09:22</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 10/Fig 7.gif">
+      <publishTime>07/20/2018 17:09:22</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 10/Fig 8.gif">
+      <publishTime>07/20/2018 17:09:22</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 10/Fig 9.gif">
+      <publishTime>07/20/2018 17:09:22</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 11/Fig 1.gif">
+      <publishTime>07/20/2018 17:09:43</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 11/Fig 10.gif">
+      <publishTime>07/20/2018 17:09:43</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 11/Fig 11.gif">
+      <publishTime>07/20/2018 17:09:43</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 11/Fig 12.gif">
+      <publishTime>07/20/2018 17:09:43</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 11/Fig 2.gif">
+      <publishTime>07/20/2018 17:09:43</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 11/Fig 3.gif">
+      <publishTime>07/20/2018 17:09:43</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 11/Fig 4.gif">
+      <publishTime>07/20/2018 17:09:43</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 11/Fig 5.gif">
+      <publishTime>07/20/2018 17:09:43</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 11/FIg 6.gif">
+      <publishTime>07/20/2018 17:09:43</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 11/Fig 7.gif">
+      <publishTime>07/20/2018 17:09:43</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 11/Fig 8.gif">
+      <publishTime>07/20/2018 17:09:43</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 11/Fig 9.gif">
+      <publishTime>07/20/2018 17:09:43</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 2/Fig 1.gif">
+      <publishTime>07/20/2018 17:06:41</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 2/Fig 10.gif">
+      <publishTime>07/20/2018 17:06:41</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 2/Fig 11.gif">
+      <publishTime>07/20/2018 17:06:41</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 2/Fig 12.gif">
+      <publishTime>07/20/2018 17:06:41</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 2/Fig 13.gif">
+      <publishTime>07/20/2018 17:06:41</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 2/Fig 14.gif">
+      <publishTime>07/20/2018 17:06:41</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 2/FIg 15.gif">
+      <publishTime>07/20/2018 17:06:41</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 2/Fig 16.gif">
+      <publishTime>07/20/2018 17:06:41</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 2/Fig 17.gif">
+      <publishTime>07/20/2018 17:06:41</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 2/Fig 18.gif">
+      <publishTime>07/20/2018 17:06:41</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 2/FIg 19.gif">
+      <publishTime>07/20/2018 17:06:41</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 2/Fig 2.gif">
+      <publishTime>07/20/2018 17:06:41</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 2/Fig 20.gif">
+      <publishTime>07/20/2018 17:06:41</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 2/FIg 21.gif">
+      <publishTime>07/20/2018 17:06:41</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 2/Fig 3.gif">
+      <publishTime>07/20/2018 17:06:41</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 2/Fig 4.gif">
+      <publishTime>07/20/2018 17:06:41</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 2/Fig 5.gif">
+      <publishTime>07/20/2018 17:06:41</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 2/Fig 6.gif">
+      <publishTime>07/20/2018 17:06:41</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 2/Fig 7.gif">
+      <publishTime>07/20/2018 17:06:41</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 2/Fig 8.gif">
+      <publishTime>07/20/2018 17:06:41</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 2/Fig 9.gif">
+      <publishTime>07/20/2018 17:06:41</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 3/Fig 1.gif">
+      <publishTime>07/20/2018 17:07:06</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 3/Fig 10.gif">
+      <publishTime>07/20/2018 17:07:06</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 3/Fig 11.gif">
+      <publishTime>07/20/2018 17:07:06</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 3/Fig 12.gif">
+      <publishTime>07/20/2018 17:07:06</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 3/Fig 13.gif">
+      <publishTime>07/20/2018 17:07:06</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 3/Fig 14.gif">
+      <publishTime>07/20/2018 17:07:06</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 3/Fig 15.gif">
+      <publishTime>07/20/2018 17:07:06</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 3/FIg 2.gif">
+      <publishTime>07/20/2018 17:07:06</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 3/Fig 3.gif">
+      <publishTime>07/20/2018 17:07:06</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 3/Fig 4.gif">
+      <publishTime>07/20/2018 17:07:06</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 3/FIg 5.gif">
+      <publishTime>07/20/2018 17:07:06</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 3/Fig 6.gif">
+      <publishTime>07/20/2018 17:07:06</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 3/Fig 7.gif">
+      <publishTime>07/20/2018 17:07:06</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 3/Fig 8.gif">
+      <publishTime>07/20/2018 17:07:06</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 3/Fig 9.gif">
+      <publishTime>07/20/2018 17:07:06</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 4/Fig 1.gif">
+      <publishTime>07/20/2018 17:07:22</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 4/Fig 10.gif">
+      <publishTime>07/20/2018 17:07:22</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 4/Fig 11.gif">
+      <publishTime>07/20/2018 17:07:22</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 4/Fig 2.gif">
+      <publishTime>07/20/2018 17:07:22</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 4/FIg 3.gif">
+      <publishTime>07/20/2018 17:07:22</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 4/Fig 4.gif">
+      <publishTime>07/20/2018 17:07:22</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 4/FIg 5.gif">
+      <publishTime>07/20/2018 17:07:22</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 4/Fig 6.gif">
+      <publishTime>07/20/2018 17:07:22</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 4/Fig 7.gif">
+      <publishTime>07/20/2018 17:07:22</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 4/FIg 8.gif">
+      <publishTime>07/20/2018 17:07:22</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 4/Fig 9.gif">
+      <publishTime>07/20/2018 17:07:22</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 5/Fig 2.gif">
+      <publishTime>07/20/2018 17:07:37</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 5/Fig 3.gif">
+      <publishTime>07/20/2018 17:07:37</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 5/Fig 4.gif">
+      <publishTime>07/20/2018 17:07:37</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 5/Fig 5.gif">
+      <publishTime>07/20/2018 17:07:37</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 5/Fig 6.gif">
+      <publishTime>07/20/2018 17:07:37</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 5/Fig 7.gif">
+      <publishTime>07/20/2018 17:07:37</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 5/Fig 8.gif">
+      <publishTime>07/20/2018 17:07:37</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 5/Fig 9.gif">
+      <publishTime>07/20/2018 17:07:37</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 6/Fig 1.gif">
+      <publishTime>07/20/2018 17:07:54</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 6/Fig 10.gif">
+      <publishTime>07/20/2018 17:07:55</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 6/Fig 11.gif">
+      <publishTime>07/20/2018 17:07:55</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 6/Fig 12.gif">
+      <publishTime>07/20/2018 17:07:55</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 6/Fig 13.gif">
+      <publishTime>07/20/2018 17:07:55</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 6/Fig 2.gif">
+      <publishTime>07/20/2018 17:07:55</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 6/Fig 3.gif">
+      <publishTime>07/20/2018 17:07:55</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 6/Fig 4.gif">
+      <publishTime>07/20/2018 17:07:55</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 6/Fig 5.gif">
+      <publishTime>07/20/2018 17:07:55</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 6/Fig 6.gif">
+      <publishTime>07/20/2018 17:07:55</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 6/Fig 7.gif">
+      <publishTime>07/20/2018 17:07:55</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 6/Fig 8.gif">
+      <publishTime>07/20/2018 17:07:55</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 6/Fig 9.gif">
+      <publishTime>07/20/2018 17:07:55</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 7/Fig 1.gif">
+      <publishTime>07/20/2018 17:08:10</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 7/Fig 2.gif">
+      <publishTime>07/20/2018 17:08:10</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 7/Fig 3.gif">
+      <publishTime>07/20/2018 17:08:10</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 7/FIg 4.gif">
+      <publishTime>07/20/2018 17:08:10</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 7/Fig 5.gif">
+      <publishTime>07/20/2018 17:08:10</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 7/Fig 6.gif">
+      <publishTime>07/20/2018 17:08:10</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 7/Fig 7.gif">
+      <publishTime>07/20/2018 17:08:10</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 7/Fig 8.gif">
+      <publishTime>07/20/2018 17:08:10</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 8/Fig 1.gif">
+      <publishTime>07/20/2018 17:08:27</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 8/Fig 10.gif">
+      <publishTime>07/20/2018 17:08:27</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 8/Fig 11.gif">
+      <publishTime>07/20/2018 17:08:27</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 8/Fig 12.gif">
+      <publishTime>07/20/2018 17:08:27</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 8/Fig 13.gif">
+      <publishTime>07/20/2018 17:08:27</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 8/FIg 2.gif">
+      <publishTime>07/20/2018 17:08:27</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 8/FIg 3.gif">
+      <publishTime>07/20/2018 17:08:27</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 8/FIg 4.gif">
+      <publishTime>07/20/2018 17:08:27</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 8/Fig 5.gif">
+      <publishTime>07/20/2018 17:08:27</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 8/Fig 6.gif">
+      <publishTime>07/20/2018 17:08:27</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 8/Fig 7.gif">
+      <publishTime>07/20/2018 17:08:27</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 8/Fig 8.gif">
+      <publishTime>07/20/2018 17:08:27</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 8/Fig 9.gif">
+      <publishTime>07/20/2018 17:08:27</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 9/Fig 1.gif">
+      <publishTime>07/20/2018 17:08:55</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 9/Fig 10.gif">
+      <publishTime>07/20/2018 17:08:55</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 9/Fig 11.gif">
+      <publishTime>07/20/2018 17:08:55</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 9/Fig 12.gif">
+      <publishTime>07/20/2018 17:08:55</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 9/Fig 13.gif">
+      <publishTime>07/20/2018 17:08:55</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 9/Fig 2.gif">
+      <publishTime>07/20/2018 17:08:55</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 9/Fig 3.gif">
+      <publishTime>07/20/2018 17:08:55</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 9/Fig 4.gif">
+      <publishTime>07/20/2018 17:08:55</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 9/Fig 5.gif">
+      <publishTime>07/20/2018 17:08:55</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 9/Fig 6.gif">
+      <publishTime>07/20/2018 17:08:55</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 9/Fig 7.gif">
+      <publishTime>07/20/2018 17:08:55</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 9/Fig 8.gif">
+      <publishTime>07/20/2018 17:08:55</publishTime>
+    </File>
+    <File Include="images/ADO NET Entity Framework/Chapter 9/Fig 9.gif">
+      <publishTime>07/20/2018 17:08:55</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 1/Fig 1.gif">
+      <publishTime>07/20/2018 17:15:36</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 1/Fig 2.gif">
+      <publishTime>07/20/2018 17:15:36</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 1/Fig 3.bmp">
+      <publishTime>07/20/2018 17:15:36</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 1/Fig 4.gif">
+      <publishTime>07/20/2018 17:15:36</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 10/Fig 1.gif">
+      <publishTime>07/20/2018 17:15:59</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 10/Fig 10.gif">
+      <publishTime>07/20/2018 17:15:59</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 10/Fig 11.gif">
+      <publishTime>07/20/2018 17:15:59</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 10/Fig 12.gif">
+      <publishTime>07/20/2018 17:15:59</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 10/Fig 13.gif">
+      <publishTime>07/20/2018 17:15:59</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 10/Fig 14.gif">
+      <publishTime>07/20/2018 17:15:59</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 10/Fig 15.gif">
+      <publishTime>07/20/2018 17:15:59</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 10/Fig 16.gif">
+      <publishTime>07/20/2018 17:15:59</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 10/Fig 17.gif">
+      <publishTime>07/20/2018 17:15:59</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 10/Fig 18.gif">
+      <publishTime>07/20/2018 17:15:59</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 10/Fig 2.gif">
+      <publishTime>07/20/2018 17:15:59</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 10/Fig 3.gif">
+      <publishTime>07/20/2018 17:15:59</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 10/Fig 4.gif">
+      <publishTime>07/20/2018 17:15:59</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 10/Fig 5.gif">
+      <publishTime>07/20/2018 17:15:59</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 10/Fig 6.gif">
+      <publishTime>07/20/2018 17:15:59</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 10/Fig 7.gif">
+      <publishTime>07/20/2018 17:15:59</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 10/Fig 8.gif">
+      <publishTime>07/20/2018 17:15:59</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 10/Fig 9.gif">
+      <publishTime>07/20/2018 17:15:59</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 11/Fig 1.gif">
+      <publishTime>07/20/2018 17:16:16</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 11/Fig 10.gif">
+      <publishTime>07/20/2018 17:16:16</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 11/Fig 11.gif">
+      <publishTime>07/20/2018 17:16:16</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 11/Fig 2.gif">
+      <publishTime>07/20/2018 17:16:16</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 11/Fig 3.gif">
+      <publishTime>07/20/2018 17:16:16</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 11/Fig 4.gif">
+      <publishTime>07/20/2018 17:16:16</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 11/Fig 5.gif">
+      <publishTime>07/20/2018 17:16:16</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 11/Fig 6.gif">
+      <publishTime>07/20/2018 17:16:16</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 11/Fig 7.gif">
+      <publishTime>07/20/2018 17:16:16</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 11/FIg 8.gif">
+      <publishTime>07/20/2018 17:16:16</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 11/FIg 9.gif">
+      <publishTime>07/20/2018 17:16:16</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 12/Fig 1.gif">
+      <publishTime>07/20/2018 17:16:34</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 12/Fig 2.gif">
+      <publishTime>07/20/2018 17:16:34</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 12/Fig 3.gif">
+      <publishTime>07/20/2018 17:16:34</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 14/Fig 1.png">
+      <publishTime>07/20/2018 17:16:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 14/Fig 10.gif">
+      <publishTime>07/20/2018 17:16:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 14/Fig 11.gif">
+      <publishTime>07/20/2018 17:16:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 14/Fig 12.gif">
+      <publishTime>07/20/2018 17:16:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 14/Fig 13.gif">
+      <publishTime>07/20/2018 17:16:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 14/Fig 14.gif">
+      <publishTime>07/20/2018 17:16:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 14/Fig 15.gif">
+      <publishTime>07/20/2018 17:16:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 14/FIg 16.gif">
+      <publishTime>07/20/2018 17:16:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 14/Fig 17.gif">
+      <publishTime>07/20/2018 17:16:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 14/Fig 18.gif">
+      <publishTime>07/20/2018 17:16:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 14/Fig 19.gif">
+      <publishTime>07/20/2018 17:16:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 14/Fig 2.gif">
+      <publishTime>07/20/2018 17:16:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 14/Fig 20.gif">
+      <publishTime>07/20/2018 17:16:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 14/Fig 21.gif">
+      <publishTime>07/20/2018 17:16:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 14/Fig 22.gif">
+      <publishTime>07/20/2018 17:16:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 14/Fig 23.gif">
+      <publishTime>07/20/2018 17:16:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 14/Fig 24.gif">
+      <publishTime>07/20/2018 17:16:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 14/Fig 25.gif">
+      <publishTime>07/20/2018 17:16:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 14/Fig 26.gif">
+      <publishTime>07/20/2018 17:16:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 14/Fig 27.gif">
+      <publishTime>07/20/2018 17:16:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 14/Fig 3.gif">
+      <publishTime>07/20/2018 17:16:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 14/Fig 4.gif">
+      <publishTime>07/20/2018 17:16:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 14/Fig 5.gif">
+      <publishTime>07/20/2018 17:16:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 14/Fig 6.gif">
+      <publishTime>07/20/2018 17:16:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 14/Fig 7.gif">
+      <publishTime>07/20/2018 17:16:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 14/Fig 8.gif">
+      <publishTime>07/20/2018 17:16:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 14/Fig 9.gif">
+      <publishTime>07/20/2018 17:16:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 15/Fig 1.gif">
+      <publishTime>07/20/2018 17:17:09</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 15/Fig 2.gif">
+      <publishTime>07/20/2018 17:17:09</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 15/Fig 3.gif">
+      <publishTime>07/20/2018 17:17:09</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 16/Fig 1.gif">
+      <publishTime>07/20/2018 17:17:22</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 16/Fig 2.gif">
+      <publishTime>07/20/2018 17:17:22</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 16/FIg 3.gif">
+      <publishTime>07/20/2018 17:17:22</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 16/Fig 4.gif">
+      <publishTime>07/20/2018 17:17:22</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 16/Fig 5.gif">
+      <publishTime>07/20/2018 17:17:22</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 16/Fig 6.gif">
+      <publishTime>07/20/2018 17:17:22</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 16/FIg 7.gif">
+      <publishTime>07/20/2018 17:17:22</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 16/FIg 8.gif">
+      <publishTime>07/20/2018 17:17:22</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 16/Fig 9.gif">
+      <publishTime>07/20/2018 17:17:22</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 18/Fig 1.gif">
+      <publishTime>07/20/2018 17:17:41</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 18/Fig 10.gif">
+      <publishTime>07/20/2018 17:17:41</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 18/Fig 11.gif">
+      <publishTime>07/20/2018 17:17:41</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 18/Fig 12.gif">
+      <publishTime>07/20/2018 17:17:41</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 18/Fig 13.gif">
+      <publishTime>07/20/2018 17:17:41</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 18/Fig 14.gif">
+      <publishTime>07/20/2018 17:17:41</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 18/Fig 15.gif">
+      <publishTime>07/20/2018 17:17:41</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 18/Fig 16.gif">
+      <publishTime>07/20/2018 17:17:41</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 18/Fig 17.gif">
+      <publishTime>07/20/2018 17:17:41</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 18/Fig 18.gif">
+      <publishTime>07/20/2018 17:17:41</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 18/Fig 19.gif">
+      <publishTime>07/20/2018 17:17:41</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 18/Fig 2.gif">
+      <publishTime>07/20/2018 17:17:41</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 18/Fig 20.gif">
+      <publishTime>07/20/2018 17:17:41</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 18/Fig 21.gif">
+      <publishTime>07/20/2018 17:17:41</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 18/Fig 22.gif">
+      <publishTime>07/20/2018 17:17:41</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 18/Fig 23.gif">
+      <publishTime>07/20/2018 17:17:41</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 18/Fig 24.gif">
+      <publishTime>07/20/2018 17:17:41</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 18/Fig 3.gif">
+      <publishTime>07/20/2018 17:17:41</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 18/Fig 4.gif">
+      <publishTime>07/20/2018 17:17:41</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 18/Fig 5.gif">
+      <publishTime>07/20/2018 17:17:41</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 18/Fig 6.gif">
+      <publishTime>07/20/2018 17:17:41</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 18/Fig 7.gif">
+      <publishTime>07/20/2018 17:17:41</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 18/Fig 8.gif">
+      <publishTime>07/20/2018 17:17:41</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 18/Fig 9.gif">
+      <publishTime>07/20/2018 17:17:41</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 19/Fig 1.gif">
+      <publishTime>07/20/2018 17:17:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 19/Fig 10.gif">
+      <publishTime>07/20/2018 17:17:55</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 19/Fig 11.gif">
+      <publishTime>07/20/2018 17:17:55</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 19/Fig 12.gif">
+      <publishTime>07/20/2018 17:17:55</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 19/Fig 13.gif">
+      <publishTime>07/20/2018 17:17:55</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 19/Fig 14.gif">
+      <publishTime>07/20/2018 17:17:55</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 19/Fig 15.gif">
+      <publishTime>07/20/2018 17:17:55</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 19/Fig 16.gif">
+      <publishTime>07/20/2018 17:17:55</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 19/FIg 2.gif">
+      <publishTime>07/20/2018 17:17:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 19/Fig 3.gif">
+      <publishTime>07/20/2018 17:17:54</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 19/Fig 4.gif">
+      <publishTime>07/20/2018 17:17:55</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 19/FIg 5.gif">
+      <publishTime>07/20/2018 17:17:55</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 19/Fig 6.gif">
+      <publishTime>07/20/2018 17:17:55</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 19/Fig 7.gif">
+      <publishTime>07/20/2018 17:17:55</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 19/FIg 8.gif">
+      <publishTime>07/20/2018 17:17:55</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 19/FIg 9.gif">
+      <publishTime>07/20/2018 17:17:55</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 2/Fig 1.gif">
+      <publishTime>07/20/2018 17:18:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 2/Fig 10.gif">
+      <publishTime>07/20/2018 17:18:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 2/Fig 11.gif">
+      <publishTime>07/20/2018 17:18:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 2/Fig 12.gif">
+      <publishTime>07/20/2018 17:18:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 2/Fig 13.gif">
+      <publishTime>07/20/2018 17:18:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 2/Fig 14.gif">
+      <publishTime>07/20/2018 17:18:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 2/Fig 15.gif">
+      <publishTime>07/20/2018 17:18:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 2/Fig 16.gif">
+      <publishTime>07/20/2018 17:18:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 2/Fig 2.gif">
+      <publishTime>07/20/2018 17:18:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 2/Fig 3.gif">
+      <publishTime>07/20/2018 17:18:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 2/Fig 4.gif">
+      <publishTime>07/20/2018 17:18:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 2/Fig 5.gif">
+      <publishTime>07/20/2018 17:18:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 2/Fig 6.gif">
+      <publishTime>07/20/2018 17:18:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 2/Fig 7.gif">
+      <publishTime>07/20/2018 17:18:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 2/Fig 8.gif">
+      <publishTime>07/20/2018 17:18:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 2/Fig 9.gif">
+      <publishTime>07/20/2018 17:18:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 26/Fig 1.gif">
+      <publishTime>07/20/2018 17:18:46</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 26/Fig 10.gif">
+      <publishTime>07/20/2018 17:18:46</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 26/FIg 2.gif">
+      <publishTime>07/20/2018 17:18:46</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 26/Fig 3.gif">
+      <publishTime>07/20/2018 17:18:46</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 26/Fig 4.gif">
+      <publishTime>07/20/2018 17:18:46</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 26/Fig 5.gif">
+      <publishTime>07/20/2018 17:18:46</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 26/Fig 6.gif">
+      <publishTime>07/20/2018 17:18:46</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 26/Fig 7.gif">
+      <publishTime>07/20/2018 17:18:46</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 26/Fig 8.gif">
+      <publishTime>07/20/2018 17:18:46</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 26/Fig 9.gif">
+      <publishTime>07/20/2018 17:18:46</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 3/Fig 1.gif">
+      <publishTime>07/20/2018 17:19:09</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 3/Fig 10.gif">
+      <publishTime>07/20/2018 17:19:09</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 3/Fig 11.gif">
+      <publishTime>07/20/2018 17:19:09</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 3/Fig 12.gif">
+      <publishTime>07/20/2018 17:19:09</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 3/Fig 13.gif">
+      <publishTime>07/20/2018 17:19:09</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 3/Fig 14.gif">
+      <publishTime>07/20/2018 17:19:09</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 3/FIg 15.gif">
+      <publishTime>07/20/2018 17:19:09</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 3/FIg 16.gif">
+      <publishTime>07/20/2018 17:19:09</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 3/Fig 2.gif">
+      <publishTime>07/20/2018 17:19:09</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 3/Fig 3.gif">
+      <publishTime>07/20/2018 17:19:09</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 3/Fig 4.gif">
+      <publishTime>07/20/2018 17:19:09</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 3/Fig 5.gif">
+      <publishTime>07/20/2018 17:19:09</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 3/Fig 6.gif">
+      <publishTime>07/20/2018 17:19:09</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 3/Fig 7.gif">
+      <publishTime>07/20/2018 17:19:09</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 3/FIg 8.gif">
+      <publishTime>07/20/2018 17:19:09</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 3/Fig 9.gif">
+      <publishTime>07/20/2018 17:19:09</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 6/Fig 1.gif">
+      <publishTime>07/20/2018 17:19:30</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 6/Fig 10.gif">
+      <publishTime>07/20/2018 17:19:30</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 6/Fig 11.gif">
+      <publishTime>07/20/2018 17:19:30</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 6/Fig 12.gif">
+      <publishTime>07/20/2018 17:19:30</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 6/Fig 13.gif">
+      <publishTime>07/20/2018 17:19:30</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 6/Fig 14.gif">
+      <publishTime>07/20/2018 17:19:30</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 6/Fig 15.gif">
+      <publishTime>07/20/2018 17:19:30</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 6/Fig 16.gif">
+      <publishTime>07/20/2018 17:19:30</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 6/Fig 17.gif">
+      <publishTime>07/20/2018 17:19:30</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 6/Fig 18.gif">
+      <publishTime>07/20/2018 17:19:30</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 6/Fig 2.gif">
+      <publishTime>07/20/2018 17:19:30</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 6/Fig 3.gif">
+      <publishTime>07/20/2018 17:19:30</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 6/Fig 4.gif">
+      <publishTime>07/20/2018 17:19:30</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 6/Fig 5.gif">
+      <publishTime>07/20/2018 17:19:30</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 6/Fig 6.gif">
+      <publishTime>07/20/2018 17:19:30</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 6/Fig 7.gif">
+      <publishTime>07/20/2018 17:19:30</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 6/Fig 8.gif">
+      <publishTime>07/20/2018 17:19:30</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 6/Fig 9.gif">
+      <publishTime>07/20/2018 17:19:30</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 7/Fig 1.gif">
+      <publishTime>07/20/2018 17:19:46</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 7/Fig 2.gif">
+      <publishTime>07/20/2018 17:19:46</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 7/FIg 3.gif">
+      <publishTime>07/20/2018 17:19:46</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 7/FIg 4.gif">
+      <publishTime>07/20/2018 17:19:46</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 7/FIg 5.gif">
+      <publishTime>07/20/2018 17:19:46</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 7/Fig 6.gif">
+      <publishTime>07/20/2018 17:19:46</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 7/Fig 7.gif">
+      <publishTime>07/20/2018 17:19:46</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 7/FIg 8.gif">
+      <publishTime>07/20/2018 17:19:46</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 8/Fig 1.gif">
+      <publishTime>07/20/2018 17:20:03</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 8/Fig 2.gif">
+      <publishTime>07/20/2018 17:20:03</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 8/Fig 3.gif">
+      <publishTime>07/20/2018 17:20:03</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 8/Fig 4.gif">
+      <publishTime>07/20/2018 17:20:03</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 8/Fig 5.gif">
+      <publishTime>07/20/2018 17:20:03</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 9/Fig 1.gif">
+      <publishTime>07/20/2018 17:20:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 9/Fig 10.gif">
+      <publishTime>07/20/2018 17:20:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 9/Fig 11.gif">
+      <publishTime>07/20/2018 17:20:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 9/Fig 12.gif">
+      <publishTime>07/20/2018 17:20:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 9/Fig 13.gif">
+      <publishTime>07/20/2018 17:20:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 9/Fig 14.gif">
+      <publishTime>07/20/2018 17:20:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 9/Fig 15.gif">
+      <publishTime>07/20/2018 17:20:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 9/Fig 16.gif">
+      <publishTime>07/20/2018 17:20:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 9/Fig 17.gif">
+      <publishTime>07/20/2018 17:20:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 9/Fig 18.gif">
+      <publishTime>07/20/2018 17:20:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 9/FIg 2.gif">
+      <publishTime>07/20/2018 17:20:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 9/Fig 3.gif">
+      <publishTime>07/20/2018 17:20:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 9/Fig 4.gif">
+      <publishTime>07/20/2018 17:20:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 9/FIg 5.gif">
+      <publishTime>07/20/2018 17:20:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 9/FIg 6.gif">
+      <publishTime>07/20/2018 17:20:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 9/Fig 7.gif">
+      <publishTime>07/20/2018 17:20:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 9/Fig 8.gif">
+      <publishTime>07/20/2018 17:20:28</publishTime>
+    </File>
+    <File Include="images/ASP NET 4 Step by Step/Chapter 9/Fig 9.gif">
+      <publishTime>07/20/2018 17:20:28</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 2/FIg 1.gif">
+      <publishTime>07/20/2018 17:27:52</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 2/Fig 10.gif">
+      <publishTime>07/20/2018 17:27:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 2/Fig 11.gif">
+      <publishTime>07/20/2018 17:27:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 2/Fig 12.gif">
+      <publishTime>07/20/2018 17:27:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 2/Fig 13.gif">
+      <publishTime>07/20/2018 17:27:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 2/Fig 14.gif">
+      <publishTime>07/20/2018 17:27:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 2/Fig 15.gif">
+      <publishTime>07/20/2018 17:27:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 2/Fig 16.gif">
+      <publishTime>07/20/2018 17:27:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 2/Fig 17.gif">
+      <publishTime>07/20/2018 17:27:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 2/Fig 2.gif">
+      <publishTime>07/20/2018 17:27:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 2/FIg 3.gif">
+      <publishTime>07/20/2018 17:27:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 2/Fig 4.gif">
+      <publishTime>07/20/2018 17:27:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 2/Fig 5.gif">
+      <publishTime>07/20/2018 17:27:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 2/Fig 6.gif">
+      <publishTime>07/20/2018 17:27:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 2/Fig 7.gif">
+      <publishTime>07/20/2018 17:27:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 2/Fig 8.gif">
+      <publishTime>07/20/2018 17:27:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 2/Fig 9.gif">
+      <publishTime>07/20/2018 17:27:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 3/Fig 1.gif">
+      <publishTime>07/20/2018 17:28:05</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 3/Fig 2.gif">
+      <publishTime>07/20/2018 17:28:05</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 3/Fig 3.gif">
+      <publishTime>07/20/2018 17:28:05</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 3/Fig 4.gif">
+      <publishTime>07/20/2018 17:28:05</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 3/Fig 5.gif">
+      <publishTime>07/20/2018 17:28:05</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 4/Fig 1.gif">
+      <publishTime>07/20/2018 17:28:21</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 4/Fig 10.gif">
+      <publishTime>07/20/2018 17:28:21</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 4/Fig 11.gif">
+      <publishTime>07/20/2018 17:28:21</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 4/Fig 12.gif">
+      <publishTime>07/20/2018 17:28:21</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 4/Fig 13.gif">
+      <publishTime>07/20/2018 17:28:21</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 4/Fig 14.gif">
+      <publishTime>07/20/2018 17:28:21</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 4/Fig 15.gif">
+      <publishTime>07/20/2018 17:28:21</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 4/Fig 16.gif">
+      <publishTime>07/20/2018 17:28:21</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 4/Fig 17.gif">
+      <publishTime>07/20/2018 17:28:21</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 4/Fig 18.gif">
+      <publishTime>07/20/2018 17:28:21</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 4/Fig 19.gif">
+      <publishTime>07/20/2018 17:28:21</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 4/Fig 2.gif">
+      <publishTime>07/20/2018 17:28:21</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 4/Fig 20.gif">
+      <publishTime>07/20/2018 17:28:21</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 4/Fig 3.gif">
+      <publishTime>07/20/2018 17:28:21</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 4/Fig 4.gif">
+      <publishTime>07/20/2018 17:28:21</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 4/Fig 5.gif">
+      <publishTime>07/20/2018 17:28:21</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 4/Fig 6.gif">
+      <publishTime>07/20/2018 17:28:21</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 4/Fig 7.gif">
+      <publishTime>07/20/2018 17:28:21</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 4/FIg 8.gif">
+      <publishTime>07/20/2018 17:28:21</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 4/Fig 9.gif">
+      <publishTime>07/20/2018 17:28:21</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 5/Fig 1.gif">
+      <publishTime>07/20/2018 17:28:38</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 5/Fig 10.gif">
+      <publishTime>07/20/2018 17:28:38</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 5/Fig 11.gif">
+      <publishTime>07/20/2018 17:28:38</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 5/Fig 12.gif">
+      <publishTime>07/20/2018 17:28:38</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 5/Fig 13.gif">
+      <publishTime>07/20/2018 17:28:38</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 5/Fig 14.gif">
+      <publishTime>07/20/2018 17:28:38</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 5/Fig 15.gif">
+      <publishTime>07/20/2018 17:28:38</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 5/Fig 16.gif">
+      <publishTime>07/20/2018 17:28:38</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 5/Fig 17.gif">
+      <publishTime>07/20/2018 17:28:38</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 5/Fig 18.gif">
+      <publishTime>07/20/2018 17:28:38</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 5/Fig 19.gif">
+      <publishTime>07/20/2018 17:28:38</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 5/Fig 2.gif">
+      <publishTime>07/20/2018 17:28:38</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 5/Fig 20.gif">
+      <publishTime>07/20/2018 17:28:38</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 5/Fig 21.gif">
+      <publishTime>07/20/2018 17:28:38</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 5/Fig 22.gif">
+      <publishTime>07/20/2018 17:28:38</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 5/Fig 3.gif">
+      <publishTime>07/20/2018 17:28:38</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 5/Fig 4.gif">
+      <publishTime>07/20/2018 17:28:38</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 5/Fig 5.gif">
+      <publishTime>07/20/2018 17:28:38</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 5/Fig 6.gif">
+      <publishTime>07/20/2018 17:28:38</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 5/Fig 7.gif">
+      <publishTime>07/20/2018 17:28:38</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 5/Fig 8.gif">
+      <publishTime>07/20/2018 17:28:38</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 5/Fig 9.gif">
+      <publishTime>07/20/2018 17:28:38</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 8/Fig 1.gif">
+      <publishTime>07/20/2018 17:28:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 8/Fig 10.gif">
+      <publishTime>07/20/2018 17:28:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 8/Fig 11.gif">
+      <publishTime>07/20/2018 17:28:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 8/Fig 12.gif">
+      <publishTime>07/20/2018 17:28:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 8/Fig 13.gif">
+      <publishTime>07/20/2018 17:28:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 8/Fig 14.gif">
+      <publishTime>07/20/2018 17:28:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 8/Fig 16.gif">
+      <publishTime>07/20/2018 17:28:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 8/Fig 17.gif">
+      <publishTime>07/20/2018 17:28:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 8/Fig 18.gif">
+      <publishTime>07/20/2018 17:28:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 8/Fig 19.gif">
+      <publishTime>07/20/2018 17:28:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 8/Fig 2.gif">
+      <publishTime>07/20/2018 17:28:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 8/Fig 20.gif">
+      <publishTime>07/20/2018 17:28:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 8/Fig 21.gif">
+      <publishTime>07/20/2018 17:28:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 8/Fig 22.gif">
+      <publishTime>07/20/2018 17:28:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 8/Fig 23.gif">
+      <publishTime>07/20/2018 17:28:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 8/Fig 24.gif">
+      <publishTime>07/20/2018 17:28:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 8/Fig 25.gif">
+      <publishTime>07/20/2018 17:28:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 8/Fig 26.gif">
+      <publishTime>07/20/2018 17:28:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 8/Fig 27.gif">
+      <publishTime>07/20/2018 17:28:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 8/Fig 28.gif">
+      <publishTime>07/20/2018 17:28:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 8/Fig 29.gif">
+      <publishTime>07/20/2018 17:28:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 8/Fig 3.gif">
+      <publishTime>07/20/2018 17:28:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 8/Fig 4.gif">
+      <publishTime>07/20/2018 17:28:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 8/Fig 5.gif">
+      <publishTime>07/20/2018 17:28:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 8/Fig 6.gif">
+      <publishTime>07/20/2018 17:28:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 8/Fig 7.gif">
+      <publishTime>07/20/2018 17:28:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 8/Fig 8.gif">
+      <publishTime>07/20/2018 17:28:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 8/Fig 9.gif">
+      <publishTime>07/20/2018 17:28:53</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 1.gif">
+      <publishTime>07/20/2018 17:29:11</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 10.gif">
+      <publishTime>07/20/2018 17:29:11</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 11.gif">
+      <publishTime>07/20/2018 17:29:11</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 12.gif">
+      <publishTime>07/20/2018 17:29:11</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 13.gif">
+      <publishTime>07/20/2018 17:29:11</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 14.gif">
+      <publishTime>07/20/2018 17:29:11</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 15.gif">
+      <publishTime>07/20/2018 17:29:11</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 16.gif">
+      <publishTime>07/20/2018 17:29:12</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/FIg 17.gif">
+      <publishTime>07/20/2018 17:29:12</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 18.gif">
+      <publishTime>07/20/2018 17:29:12</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 19.gif">
+      <publishTime>07/20/2018 17:29:12</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 2.gif">
+      <publishTime>07/20/2018 17:29:11</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 20.gif">
+      <publishTime>07/20/2018 17:29:12</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 21.gif">
+      <publishTime>07/20/2018 17:29:12</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 22.gif">
+      <publishTime>07/20/2018 17:29:12</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 23.gif">
+      <publishTime>07/20/2018 17:29:12</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 24.gif">
+      <publishTime>07/20/2018 17:29:12</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 25.gif">
+      <publishTime>07/20/2018 17:29:12</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 26.gif">
+      <publishTime>07/20/2018 17:29:12</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 27.gif">
+      <publishTime>07/20/2018 17:29:12</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 28.gif">
+      <publishTime>07/20/2018 17:29:12</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 29.gif">
+      <publishTime>07/20/2018 17:29:12</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 3.gif">
+      <publishTime>07/20/2018 17:29:11</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 30.gif">
+      <publishTime>07/20/2018 17:29:12</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 4.gif">
+      <publishTime>07/20/2018 17:29:11</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 5.gif">
+      <publishTime>07/20/2018 17:29:11</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 6.gif">
+      <publishTime>07/20/2018 17:29:11</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 7.gif">
+      <publishTime>07/20/2018 17:29:11</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 8.gif">
+      <publishTime>07/20/2018 17:29:11</publishTime>
+    </File>
+    <File Include="images/Developing Web Applications/Chapter 9/Fig 9.gif">
+      <publishTime>07/20/2018 17:29:11</publishTime>
+    </File>
+    <File Include="images/icons/Back.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/Back_Disabled.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/browse.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/Close.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/Collapse.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/Copy.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/document_new_lined_32_h.bmp">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/document_new_unlined_32.bmp">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/Down.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/Down_Disabled.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/edit.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/Expand.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/Forward.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/Forward_Disabled.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/Go.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/Go_Disabled.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/Insert.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/KeyPhrase.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/Keyword.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/New.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/NewChild.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/No.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/No_Disabled.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/Prev.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/Refresh.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/Save.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/save_16_d.bmp">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/Save_Disabled.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/Search.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/SearchDown.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/SearchUp.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/Summary.png">
+      <publishTime>01/28/2019 19:50:00</publishTime>
+    </File>
+    <File Include="images/icons/Up.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/Up_Disabled.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/ZoomIn.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/icons/ZoomOut.png">
+      <publishTime>07/20/2018 16:07:53</publishTime>
+    </File>
+    <File Include="images/IIS 7.0/Chapter 1/Fig 1.gif">
+      <publishTime>07/20/2018 17:22:58</publishTime>
+    </File>
+    <File Include="images/IIS 7.0/Chapter 1/Fig 2.gif">
+      <publishTime>07/20/2018 17:22:58</publishTime>
+    </File>
+    <File Include="images/IIS 7.0/Chapter 1/Fig 3.gif">
+      <publishTime>07/20/2018 17:22:58</publishTime>
+    </File>
+    <File Include="images/IIS 7.0/Chapter 1/Fig 4.gif">
+      <publishTime>07/20/2018 17:22:58</publishTime>
+    </File>
+    <File Include="images/IIS 7.0/Chapter 1/Fig 5.gif">
+      <publishTime>07/20/2018 17:22:58</publishTime>
+    </File>
+    <File Include="images/IIS 7.0/Chapter 1/Fig 6.gif">
+      <publishTime>07/20/2018 17:22:58</publishTime>
+    </File>
+    <File Include="images/IIS 7.0/Chapter 5/Fig 1.gif">
+      <publishTime>07/20/2018 17:23:12</publishTime>
+    </File>
+    <File Include="images/IIS 7.0/Chapter 9/Fig 1.gif">
+      <publishTime>07/20/2018 17:23:25</publishTime>
+    </File>
+    <File Include="images/IIS 7.0/Chapter 9/Fig 2.gif">
+      <publishTime>07/20/2018 17:23:25</publishTime>
+    </File>
+    <File Include="images/IIS 7.0/Chapter 9/Fig 3.gif">
+      <publishTime>07/20/2018 17:23:25</publishTime>
+    </File>
+    <File Include="images/IIS 7.0/Chapter 9/Fig 4.gif">
+      <publishTime>07/20/2018 17:23:25</publishTime>
+    </File>
+    <File Include="images/IIS 7.0/Chapter 9/Fig 5.gif">
+      <publishTime>07/20/2018 17:23:25</publishTime>
+    </File>
+    <File Include="images/Linq in NET 4/Chapter 1/Fig 1.gif">
+      <publishTime>07/20/2018 17:24:28</publishTime>
+    </File>
+    <File Include="images/notes.gif">
+      <publishTime>07/20/2018 15:46:11</publishTime>
+    </File>
+    <File Include="images/notes.png">
+      <publishTime>07/20/2018 15:46:11</publishTime>
+    </File>
+    <File Include="images/notesold.gif">
+      <publishTime>07/20/2018 15:46:11</publishTime>
+    </File>
+    <File Include="images/The Art and Science of CSS/Chapter 3/Fig 1.gif">
+      <publishTime>07/20/2018 16:56:12</publishTime>
+    </File>
+    <File Include="images/The Art and Science of CSS/Chapter 3/FIg 2.gif">
+      <publishTime>07/20/2018 16:56:12</publishTime>
+    </File>
+    <File Include="images/The Art and Science of CSS/Chapter 3/Fig 3.gif">
+      <publishTime>07/20/2018 16:56:12</publishTime>
+    </File>
+    <File Include="images/The Art and Science of CSS/Chapter 3/Fig 4.gif">
+      <publishTime>07/20/2018 16:56:12</publishTime>
+    </File>
+    <File Include="images/The Art and Science of CSS/Chapter 3/Fig 5.gif">
+      <publishTime>07/20/2018 16:56:12</publishTime>
+    </File>
+    <File Include="images/The Art and Science of CSS/Chapter 3/Fig 6.gif">
+      <publishTime>07/20/2018 16:56:12</publishTime>
+    </File>
+    <File Include="images/_layout..png">
+      <publishTime>07/20/2018 15:46:11</publishTime>
+    </File>
+    <File Include="notes.gif">
+      <publishTime>07/25/2018 20:15:14</publishTime>
+    </File>
+    <File Include="notes.png">
+      <publishTime>07/25/2018 20:15:15</publishTime>
+    </File>
+    <File Include="notesold.gif">
+      <publishTime>07/25/2018 20:15:15</publishTime>
+    </File>
+    <File Include="Problem.aspx">
+      <publishTime>01/28/2019 20:11:30</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/20/2018 17:49:49</publishTime>
+    </File>
+    <File Include="_layout..png">
+      <publishTime>07/25/2018 20:15:14</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
